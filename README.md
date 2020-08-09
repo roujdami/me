@@ -6,8 +6,8 @@
 
 # Social Media:
 
-Twitter: @thisishamzaelg
-LinkedIn: @elghoujdami
-Instagram: @hamza_elghoujdami
-Facebook: @helghoujdami
-Medium: @thisishamza
+- Twitter: @thisishamzaelg
+- LinkedIn: @elghoujdami
+- Instagram: @hamza_elghoujdami
+- Facebook: @helghoujdami
+- Medium: @thisishamza
