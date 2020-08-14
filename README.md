@@ -8,6 +8,6 @@
 
 - Twitter: @thisishamzaelg
 - LinkedIn: @elghoujdami
-- Instagram: @hamza_elghoujdami
+- Instagram: @hamza_el_ghoujdami
 - Facebook: @helghoujdami
 - Medium: @thisishamza
